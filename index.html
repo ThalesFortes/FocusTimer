@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-br" class="">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,37 +9,38 @@
   <link rel="stylesheet" href="./src/css/reset.css">
   <link rel="stylesheet" href="./src/css/styles.css">
   <script src="https://unpkg.com/@phosphor-icons/web"></script>
+  
 </head>
 <body>
   <div id="app">
-    <button>
-      Alterar light / dark mode
+    <button id="toggle-mode">
+     <!-- Alterar light / dark mode -->
       <i class="ph ph-sun"></i>
       <i class="ph ph-moon-stars"></i>
     </button>
-    <section id="timer">
+    <section id="timer" class="flex">
       <span id="minutes">25</span>
       <span>:</span>
       <span id="seconds">00</span>
     </section>
-    <section id="controls">
+    <section id="controls"  class="flex">
       <button>
         <i class="ph ph-play-circle"></i>
       </button>
       <button>
-        <i class="ph ph-stop-circle"></i>
+        <i class="ph ph-pause-circle"></i>
       </button>
       <button>
-        <i class="ph ph-pause"></i>
+        <i class="ph ph-timer secondary"></i>
       </button>
       <button>
-        <i class="ph ph-timer"></i>
+        <i class="ph ph-stop-circle secondary"></i>
+      </button>
+      <button>
+        <i class="ph ph-speaker-none secondary"></i>
       </button>
       <button>
         <i class="ph ph-speaker-high"></i>
-      </button>
-      <button>
-        <i class="ph ph-speaker-simple-x"></i>
       </button>
     </section>
   </div>
