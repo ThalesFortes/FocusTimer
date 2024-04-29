@@ -31,6 +31,18 @@ html:not(.light) .ph-moon-stars{
   color: var(--text-color);
 }
 
+.sr-only{
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+
+  border: 0;
+  margin: -1px;
+  padding: 0px;
+  appearance: none;
+}
+
 body{
   background-color: var(--bg-color);
   color: var(--text-color);
@@ -63,7 +75,7 @@ body{
   height: 10.4rem;
   border-radius: 999px;
   padding: 2.2rem 4.4rem;
-  gap: 1rem;
+  gap: 1.6rem;
   background-color:var(--controls-bg-color) ;
   justify-content: center;
   
