@@ -9,7 +9,7 @@ export function toggleRunning(){
 export function reset(){
   state.isRunning = false
   state.isRunning = document.documentElement.classList.remove("running")
-
+  timer.updateDisplay()
 }
 
 export function toggleMusic(){
