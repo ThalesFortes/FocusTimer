@@ -5,6 +5,7 @@ import { kitchenTimer } from "./sounds.js"
 
 
 export function countdown(){
+  clearTimeout(state.countdownID)
   if (!state.isRunning){
     return
   }
@@ -26,7 +27,7 @@ export function countdown(){
 
   updateDisplay(minutes,seconds)
 
-  setTimeout (()=> countdown(), 1000)
+  state.countdownID = setTimeout (()=> countdown(), 1000)
 }
 
 export function updateDisplay (minutes, seconds){
