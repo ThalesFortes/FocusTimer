@@ -17,8 +17,6 @@ export function toggleMusic(){
   state.isMute = document.documentElement.classList.toggle("music-on")
 }
 
-
-
 export function set(){
   elements.minutes.setAttribute('contenteditable', true)
   elements.minutes.focus()
