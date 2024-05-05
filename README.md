@@ -48,7 +48,7 @@ O projeto foi desenvolvido para exercitar e práticar tudo que venho aprendendo 
 ## Back-end
 - JavaScript
 
-[Clique aqui para acessar](https://thalesfortes.github.io/fortune_cookie/)
+[Clique aqui para acessar](https://thalesfortes.github.io/FocusTimer/)
 
 # Autor
 
