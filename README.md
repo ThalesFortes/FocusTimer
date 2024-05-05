@@ -25,18 +25,18 @@ O projeto foi desenvolvido para exercitar e práticar tudo que venho aprendendo 
 
 ## Layout web
 
-# Dark Mode
+###  Dark Mode
 ![Web 1](https://github.com/ThalesFortes/FocusTimer/blob/main/src/images/Darkmode-Web.png)
 
-# White Mode
+###   White Mode
 ![Web 1](https://github.com/ThalesFortes/FocusTimer/blob/main/src/images/WhiteMode-Web.png)
 
 ## Layout mobile
 
-# Dark mode
+###  Dark mode
 ![Mobile 1](https://github.com/ThalesFortes/FocusTimer/blob/main/src/images/DakMode-mobile.png)
 
-# White Mode
+### White Mode
 ![Mobile 1](https://github.com/ThalesFortes/FocusTimer/blob/main/src/images/WhiteMode-mobile.png)
 
 # Tecnologias utilizadas
