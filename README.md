@@ -14,14 +14,16 @@ O projeto foi desenvolvido para exercitar e práticar tudo que venho aprendendo 
 - Manipulação da DOM
 - Biblioteca JS Math()
 - Funções *callback*
-- Funções recursivas
-- Factory
+- Recursividade
+- Principios do Clean Code
+- ES6 Modules
+- padrão Factory
 - Injeções de dependencias
 - PadStart
 - Arrays
-- Modularização e separação de códigos
 - SetTimeouts
 - Adição de sons e alteração de textos
+- Refatoração
 
 ## Layout web
 
