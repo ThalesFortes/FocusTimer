@@ -24,10 +24,20 @@ O projeto foi desenvolvido para exercitar e práticar tudo que venho aprendendo 
 - Adição de sons e alteração de textos
 
 ## Layout web
-![Web 1](https://github.com/ThalesFortes/fortune_cookie/blob/main/src/images/Web.png)
+
+# Dark Mode
+![Web 1](https://github.com/ThalesFortes/FocusTimer/blob/main/src/images/Darkmode-Web.png)
+
+# White Mode
+![Web 1](https://github.com/ThalesFortes/FocusTimer/blob/main/src/images/WhiteMode-Web.png)
 
 ## Layout mobile
-![Mobile 1](https://github.com/ThalesFortes/fortune_cookie/blob/main/src/images/Cel.png)
+
+# Dark mode
+![Mobile 1](https://github.com/ThalesFortes/FocusTimer/blob/main/src/images/DakMode-mobile.png)
+
+# White Mode
+![Mobile 1](https://github.com/ThalesFortes/FocusTimer/blob/main/src/images/WhiteMode-mobile.png)
 
 # Tecnologias utilizadas
 
