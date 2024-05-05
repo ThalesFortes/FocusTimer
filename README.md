@@ -49,6 +49,7 @@ O projeto foi desenvolvido para exercitar e práticar tudo que venho aprendendo 
 - JavaScript
 
 [Clique aqui para acessar](https://thalesfortes.github.io/FocusTimer/)
+Som funcionando corretamente, basta baixar o projeto para ver.
 
 # Autor
 
